@@ -2,3 +2,5 @@
 1st GIT repository
 
 Hi! Can you read me?
+- Hi! Can you read me?
+- Yes ;-)
